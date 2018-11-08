@@ -5,3 +5,6 @@ To run the script in Chrome:
 2. Flow the steps for creating school and then open the *curriculum* section and open up all skills with *Show More*
 3. Open the console (*ctrl+shift+J*) or *F12* 
 4. Paste the script and hit enter  
+
+# Sample
+https://duogermantips.netlify.com/
